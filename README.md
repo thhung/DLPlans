@@ -18,7 +18,7 @@ The project contains the idea (and maybe implementation) of deep learning projec
 100. Gender Identification using face
 101. [Neural-Style](https://arxiv.org/abs/1508.06576) - [Hints](http://pytorch.org/tutorials/advanced/neural_style_tutorial.html#introduction)
 102. [Human or robot](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data) style 
-
+103. Create an classifier to recongnise the programming languge from code snipset [Hint](http://php-nlp-tools.com/blog/category/programming-language-detection/)
 
 Ref:
 1. [Starter code](https://github.com/amaas/stanford_dl_ex) of Standford.
