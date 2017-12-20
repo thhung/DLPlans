@@ -16,7 +16,7 @@ The project contains the idea (and maybe implementation) of deep learning projec
 8. Small neural net for [return product problem](https://www.kaggle.com/c/bads-assignment-ws1718/data)
 7. Character recognition
 100. Gender Identification using face
-101. [Neural-Style](https://arxiv.org/abs/1508.06576) - [Hints](http://pytorch.org/tutorials/advanced/neural_style_tutorial.html#introduction)
+101. [Neural-Style](https://arxiv.org/abs/1508.06576) - [Hints](http://pytorch.org/tutorials/advanced/neural_style_tutorial.html#introduction) - Extension [Fun] (http://bhautikj.tumblr.com/post/145495308709/a-dozen-deep-dreams-of-that-dastardly-demagogue)
 102. [Human or robot](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data) style 
 103. Create an classifier to recongnise the programming languge from code snipset [Hint](http://php-nlp-tools.com/blog/category/programming-language-detection/)
 
