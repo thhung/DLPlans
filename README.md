@@ -20,5 +20,8 @@ The project contains the idea (and maybe implementation) of deep learning projec
 102. [Human or robot](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data) style 
 103. Create an classifier to recongnise the programming languge from code snipset [Hint](http://php-nlp-tools.com/blog/category/programming-language-detection/)
 
+## ML Ideas
+1. [combo ideas](https://elitedatascience.com/machine-learning-projects-for-beginners)
+
 Ref:
 1. [Starter code](https://github.com/amaas/stanford_dl_ex) of Standford.
