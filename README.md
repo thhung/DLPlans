@@ -22,4 +22,3 @@ The project contains the idea (and maybe implementation) of deep learning projec
 
 Ref:
 1. [Starter code](https://github.com/amaas/stanford_dl_ex) of Standford.
-2. 
